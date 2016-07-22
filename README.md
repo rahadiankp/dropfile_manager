@@ -8,6 +8,6 @@ Running Dropfile.to Uploader
 ----------------------------
 
 Make sure [requests](http://docs.python-requests.org) module and PyQt 4 are installed. To run the program, just type:
-'''bash
+```bash
 $ python3 main.py
-'''
+```
